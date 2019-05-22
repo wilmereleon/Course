@@ -1,12 +1,12 @@
+import java.awt.*;
+import java.applet.*;
 
-public class secondProgram {
+public class secondProgram extends Applet{
+	int age = 35;
 	
-	public static void main (String args []) {
-		
-		byte age;
-		age = 35;
-		
-		System.out.println(age);
+	public void paint(Graphics g) {
+		g.drawString("Edad: "+age, 10, 20);
 	}
+	
 
 }
