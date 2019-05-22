@@ -1,4 +1,5 @@
 public class Punto {
+	
 	private int x, y, z; //Three attributes privates (encapsulate)
 	String dimension; //TDA creates for programmer 
 	
