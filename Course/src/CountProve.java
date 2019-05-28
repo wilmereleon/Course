@@ -7,6 +7,7 @@ public class CountProve {
 		Scanner inn = new Scanner (System.in);
 		
 		Count myCount = new Count();
+		//Count count1 = new Count("Jane Green");
 		
 		System.out.printf ("The initial name is: %s%n%n", myCount.getName());
 		
