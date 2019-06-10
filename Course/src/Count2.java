@@ -3,7 +3,7 @@ public class Count2 {
 	
 	private String name;
 	
-	public Count2(String name) {
+	public Count2 (String name) {
 		this.name = name;
 	}
 
