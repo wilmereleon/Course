@@ -17,6 +17,8 @@ public class bodyMassIndexCalculator {
 		System.out.print ("Write the height in metric system (with come ','): ");
 		height = inn.nextDouble ();
 		
+		System.out.println("");
+		
 		System.out.println ("Its height is: "+height+" m");
 		
 		double heightInch;
