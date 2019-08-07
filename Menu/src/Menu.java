@@ -27,9 +27,11 @@ public class Menu {
 		}
 		mk.close();
 	}
+	
 	public static double getAdd (double numberA, double numberB) {
 		return numberA + numberB;
 	}
+	
 	private static void showMenuResult () {
 		System.out.println ("(0) Exit");
 		System.out.println ("(1) Addition");
