@@ -1,6 +1,6 @@
 
 public class Principal {
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		Punto objetoPunto = new Punto(); // To Create Object for manipulate different elements 
 		objetoPunto.setX(66);
 		objetoPunto.setY(4);
